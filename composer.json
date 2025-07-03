@@ -1,5 +1,6 @@
 {
     "name": "tkien/laravel-page-speed",
+    "version": "1.0.0",
     "description": "Laravel Page Speed",
     "keywords": [
         "laravel",
